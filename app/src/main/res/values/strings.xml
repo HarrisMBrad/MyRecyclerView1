@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyRecyclerView1</string>
+    <string name="title_one_">Title</string>
+    <string name="title_one">Title_text</string>
+    <string name="title_space">Title</string>
+    <string name="description_space">description</string>
+    <string name="rating">great_rating</string>
+</resources>
