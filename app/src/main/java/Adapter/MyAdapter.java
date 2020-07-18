@@ -20,12 +20,9 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
     private List<ListItem> listItems;
 
 
-
     public MyAdapter(Context context, List listitem) {
         this.context = context;
         this.listItems = listitem;
-
-
 
     }
 
